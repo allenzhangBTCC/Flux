@@ -8,6 +8,10 @@
     "name": "Kiran",
     "age":   28,
     "balance": "9999"
+  },
+  "p3": {
+    "name": "Kiran",
+    "age":   10,
+    "balance": "99999"
   }
-
 }
